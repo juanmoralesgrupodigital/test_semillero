@@ -1,1 +1,2 @@
-console.log("192.168.88.240")
+var ip="192.168.88.240"
+console.log(ip)
